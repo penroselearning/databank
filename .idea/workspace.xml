@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f09d83-dc33-487e-8627-faeb93800bc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Research/nyc-health-hospitals-patient-satisfaction-scores-2009-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freq_dist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/freq_dist.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +42,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1707" />
-    <option name="y" value="45" />
+    <option name="x" value="1890" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -65,7 +64,7 @@
             <path>
               <item name="data_bank" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_bank" type="462c0819:PsiDirectoryNode" />
-              <item name="Research" type="462c0819:PsiDirectoryNode" />
+              <item name="Manufacturing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
